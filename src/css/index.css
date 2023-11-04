@@ -1,0 +1,225 @@
+/* Navbar  */
+.navbar-item {
+	background:  #33691e;;
+	
+}
+.navbar-img {
+	height: 70px;
+}
+li:hover {
+    border-bottom: 1px solid #090;
+}
+.Link {
+    color: black;
+}
+.Link:hover {
+    text-decoration: none;
+    color: blue;
+}
+.nav-link {
+	color: white;
+	margin-left: 30px;
+	font-family: sans-serif;
+	text-transform: uppercase;
+	margin-top: 15px;
+}
+.collapse {
+	display: flex;
+	justify-content: center	;
+}
+/* Navbar end */
+
+/* Header */
+.header-item {
+    box-shadow: 0px 0px 50px 10px rgb(244, 229, 201);
+}
+
+.itemm {
+    border-right: 1px solid rgb(229, 223, 223);
+}
+.item-img {
+    height: 65%;
+}
+.yangiliklar {
+    width: 100%;
+}
+.yangilik-item {
+   margin-top: 0px;
+   margin-bottom: 0px;
+   text-align: left; 
+   padding: 10px;
+   border: 10px solid rgb(227, 238, 234);
+}
+
+.data-p {
+    font-size: 12px;
+}
+.about-p{
+    font-size: 16px;
+}
+.p {
+    color: #090;
+    font-size: 18px;
+}
+
+h5:hover ,p:hover {
+    color: #090;
+}
+.bizning-tarix-item {
+    width: 90%;
+    height: 300px;
+    background-color: rgb(108, 177, 108);
+    border: 30px solid rgb(171, 169, 166);
+}
+.tariximiz-item {
+
+color:black;
+width:33%
+}
+a{
+    text-decoration:none;
+    color:green;
+}
+a:hover {
+    color:blue;
+    
+}
+a.view-more {
+	float: right;
+	background: #66bb6a;
+	color: #fff;
+	border-radius: 5px;
+	line-height: 40px;
+	padding: 0 20px;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 600;
+	font-size: 14px;
+	text-transform: uppercase;
+	margin-top: 40px;
+}
+a.view-more:hover {
+	background: #1b5e20;
+	color: #fff;
+}
+.ekologiya-a {
+    color:black;
+    font-size:20px;
+    text-decoration:solid;
+}
+.ekologiya-a:hover {
+    color:#1b5e20;
+    text-decoration:none;
+}
+/* Header end */
+
+/* Vazifa funksiyalar */
+.vazifa-funk-he-img:hover {
+    background-color: #1b5e20;
+    color: #1b5e20;
+}
+.card {
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    border: 1px solid #1b5e20;
+}
+.card:hover {
+    background-color: #1b5e20;
+}
+.vazifa-p {
+    font-size: 20px;
+}
+
+/* Vazifa funksiyalar end */
+
+/* Labaratoriya */
+.labar-h1 {
+    font-size: 50px;
+}
+/* Labaratoryiya end */
+
+/* News */
+.news-header {
+    height: 240px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url('http://ecoilm.uz/static/images/blog-header-img.jpg');
+
+}
+/* News end */
+
+/* Loyiha item */
+.loyiha-item-img {
+    width: 80%;
+    height: 100%;
+}
+  /* Loyiha end */
+
+  /* ilmiy kengash */
+  .ilmiy-h5 {
+    line-height: 2;
+    padding: 20px;
+  }
+  .ilmiy-h5:hover {
+    color: black;
+  }
+  /* ilmiy kengash end */
+/* Footer */
+.Footer {
+    background-color: black;
+}
+.footer-yozuv__div{
+    display: flex;
+    flex-direction: column;
+ }
+ .footer-yozuv{
+    display: flex;
+    align-items: flex-start;
+ }
+ .footer-yozuv i{
+    margin-top: 3px;
+ }
+ .name-footer{
+    color: greenyellow;
+    font-family: 'Poppins', sans-serif;
+    margin-bottom: 15px;
+    font-weight: 600;
+    font-size:20px;
+ }
+ .ikonkalar i {
+    font-size:30px;
+    margin-left:10px;
+
+ }
+ .move{
+    margin-right: 10px;
+ }
+ .ikonkalar i:hover {
+ color: #9ccc62;
+ }
+ .logo-still {
+ width:80px;
+ height:70px;
+
+ }
+ .footer-yozuv-img {
+    width: 50px;
+    height: 50px;
+    margin-right: 20px;
+ }
+ .footer-yozuv-p {
+    color: green;
+    font-size: 20px;
+ }
+ .footer-qism-2 {
+    width: 80%;
+    height: 90%;
+ }
+ .colorr-green {
+    color: green;
+    margin: 5px;
+ }
+ i:hover {
+    font-size: 25px;
+ }
+/* Footer end */
